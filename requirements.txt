@@ -8,5 +8,5 @@ netaddr
 python-geoip-python3
 win_inet_pton
 geopy
-geoip2>=2.9.0
+geoip2>=5.2.0
 importlib-metadata
